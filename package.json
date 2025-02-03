@@ -1,5 +1,5 @@
 {
-  "name": "crm_frontend",
+  "name": "assignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -68,8 +68,6 @@
     "aws-cdk-lib": "^2.155.0",
     "constructs": "^10.3.0",
     "esbuild": "^0.23.1",
-    "sass": "^1.77.8",
-    "tsx": "^4.19.0",
-    "typescript": "^5.5.4"
+    "sass": "^1.77.8"
   }
 }
