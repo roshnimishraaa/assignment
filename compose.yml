@@ -1,0 +1,8 @@
+name: crm_frontend
+services:
+  web:
+    container_name: crm_frontend
+    image: nginx:1.27.1
+    build: .
+    ports:
+      - "3000:80"
